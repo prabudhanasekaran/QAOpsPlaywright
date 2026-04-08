@@ -31,7 +31,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"userEmail\": \"rahulshetty@gmail.com\",\n    \"userPassword\": \"Learning@830$3mK3\"\n}",
+					"raw": "{\n    \"userEmail\": \"rahulshettyw@gmail.com\",\n    \"userPassword\": \"Learning@830$3mK3\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"

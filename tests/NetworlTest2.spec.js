@@ -5,7 +5,7 @@ test('@QW Security test request intercept', async ({ page }) => {
 
     //login and reach orders page
     await page.goto("https://rahulshettyacademy.com/client");
-    await page.locator("#userEmail").fill("anshika@gmail.com");
+    await page.locator("#userEmail").fill("anshikaw@gmail.com");
     await page.locator("#userPassword").fill("Learning@830$3mK3");
     await page.locator("[value='Login']").click();
     await page.waitForLoadState('networkidle');
