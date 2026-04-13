@@ -4,5 +4,6 @@ allure-results/
 playwright-report/
 test-results/
 *.png
+*.docx
 state.json
 temp_explore.js
